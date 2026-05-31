@@ -1,0 +1,25 @@
+{
+  "home": {
+    "title": "Busca GitHub",
+    "searchPlaceholder": "Pesquisar usuário do GitHub...",
+    "searchButton": "Buscar",
+    "userNotFound": "Usuário não encontrado"
+  },
+  "profile": {
+    "followers": "Seguidores",
+    "following": "Seguindo",
+    "repositories": "Repositórios",
+    "visitBlog": "Visitar blog/website",
+    "visitTwitter": "Visitar Twitter",
+    "noDescription": "Sem descrição disponível",
+    "sortBy": "Ordenar por",
+    "sortOptions": {
+      "created": "Criação",
+      "updated": "Atualização",
+      "pushed": "Pushed",
+      "full_name": "Nome completo"
+    },
+    "loading": "Carregando...",
+    "noMoreRepos": "Sem mais repositórios"
+  }
+}
